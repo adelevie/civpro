@@ -3,6 +3,11 @@ layout : post
 category : civpro
 ---
 
+### Calder v. Jones
+- Facts:
+	- Florida-based reporters for the Enquirer served notice for libel suit in CA, which is where the subjects of their story (P) were located.
+- Holding: reporters purposefully targeted CA, so CA can assert personal jurisdiction
+
 ### Contacts and Contracts
 
 ### Burger King v. Rudzewicz
