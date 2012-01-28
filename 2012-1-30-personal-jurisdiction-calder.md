@@ -33,3 +33,13 @@ category : civpro
 - Dissent (Stevens, with White)
 	- appellee only did business in Mich., boilerplate contract is a bit much to establish personal jurisdiction
 - Notes + Questions
+
+#### Mass. Gen. Laws
+- Chapter 223A, § 3: Transactions or conduct for personal jurisdiction
+	- court can assert pers. j. if the person:
+		- (a) transacts business in the commonwealth
+		- (b) contracts or supplies
+		- (c) causes tortious injury
+		- (d) causing tortious injury by an act or omission that takes place outside of the commonwealth if he does substantial business with the commonweealth
+		- (e) has interest in real property in Mass.
+		- (f) contract to insure someone in the commonwealth
