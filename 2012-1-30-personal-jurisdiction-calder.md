@@ -68,7 +68,7 @@ category : civpro
 		- econ. fairness, general convenience
 	4. interstate judicial system's interest in most efficient resolution of controversies
 		- choice of court, choice of law; joinder is more efficient
-	5. shared interests of several states in furthering substantive social policies
+	5. shared interests of several states in furthering joint substantive social policies
 		- derives from Kulko (*man and woman married in NY, separate, man allows daughter to go to CA to live with mother, mother sues in CA, no CA juris bc he didn't pers. avail himself of CA*)
 		- eg, best interest of child (what kind of incentive would that provide to parents)
 		- think of incentives made by particular ruling and determine if we want the substantive effects of the ruling
@@ -167,3 +167,19 @@ category : civpro
 - APPLICABLE LAW
 	- By visiting Amazon.com, you agree that the Federal Arbitration Act, applicable federal law, and the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Amazon.
 - clauses changed since last year: forum selection clause -> arbitration clause
+
+### Civil Action Hypo
+- Does long arm statute (GV p. 4) apply?
+- NH Co. uses TCE to clean flag polls outside of Mass. TCE finds its way into Mass.
+- tests for minimal contacts:
+	- purposeful availment: no.
+	- then try alternatives:
+	- Calder v. Jones: intentional tort substitutes for purposeful availment
+		- mere un-targeted negligence is not enough: it must be targeted and negligent
+	- reasonableness + justice:
+		1. burden on D: some inconvenience to go to another state
+		2. forum state's interests: Mass. wants to keep clean rivers
+		3. P's interest in convenient and effective relief: Mass. is where P is from and was injured
+		4. interstate judicial system interest in *efficiency*: evidence from both states
+		5. shared interests of states: 
+
