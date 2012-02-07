@@ -122,6 +122,8 @@ category : civpro
 	- uniformity in US Const
 	- fed judges more sympathetic to federal law (Reconstruction)
 - most fed questions could be heard in state court (choice of P first, then maybe D)
+- dispute is from something created by federal law
+	- ex. Land Act claim
 
 #### Louisville & Nashville RR v. Mottley
 - Mottleys were trying to compel specific performance on a contract:
