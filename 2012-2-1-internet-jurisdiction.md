@@ -52,3 +52,6 @@ _ Burnhav (Supreme Court): preserves TAG jurisdiction (pure Pennoyer territorial
 - http://www.law.cornell.edu/constitution/articleiii
 - federal question
 - diversity
+
+- defendant can consent to personal jurisdiction (waiving it different ways such as appearing and litigating before the tribunal)
+- subject matter jurisdiction has nothing to do with fairness, strictly a question of power. cannot be waived. not a personal right, not a right--it's a structural imperative. 
